@@ -15,9 +15,8 @@ https://ithelp.ithome.com.tw/users/20119550/ironman/2221
 >[!] Android Studio (version 4.1)
 >    ✗ Flutter plugin not installed; this adds Flutter specific functionality.
 >    ✗ Dart plugin not installed; this adds Dart specific functionality.
-- https://stackoverflow.com/questions/51860845/flutter-plugin-not-installed-error-when-running-flutter-doctor
 - just run in the terminal this command
-`ln -s ~/Library/Application\ Support/Google/AndroidStudio4.1/plugins ~/Library/Application\ Support/AndroidStudio4.1`
+`ln -s ~/Library/Application\ Support/Google/AndroidStudio4.1/plugins ~/Library/Application\ Support/AndroidStudio4.1` ([StackOverflow](https://stackoverflow.com/questions/51860845/flutter-plugin-not-installed-error-when-running-flutter-doctor))
 
 ### Create an app
 - flutter create myapp
