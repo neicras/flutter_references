@@ -1,16 +1,25 @@
 # ui_login
+![screen](https://miro.medium.com/max/443/1*dmbBN1Z0PZQj1fDvlP-UJw.png)
+* source https://levelup.gitconnected.com/login-page-ui-in-flutter-65210e7a6c90
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## widgets in use
+* Padding widget
+  * padding
+  * child
+* Column widget (into the scaffold body)
+* Container widget (to hold Image widget as its child)
+  * height
+  * width
+  * padding
+  * decoration
+  * child
+* Image widget `Image.asset('asset/images/flutter-logo.png')`
+* TextField widget (input witget to take input from user)
+  * obscureText (optional)
+  * decoration
+  * border
+  * labelText
+  * hintText
+* FlatButton widget
+  * onPressed (-> navigator.push)
+  * child
