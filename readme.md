@@ -12,9 +12,9 @@ https://ithelp.ithome.com.tw/users/20119550/ironman/2221
 - flutter
 - flutter doctor
 
->[!] Android Studio (version 4.1)
->    ✗ Flutter plugin not installed; this adds Flutter specific functionality.
->    ✗ Dart plugin not installed; this adds Dart specific functionality.
+>>>[!] Android Studio (version 4.1)
+>>>    ✗ Flutter plugin not installed; this adds Flutter specific functionality.
+>>>    ✗ Dart plugin not installed; this adds Dart specific functionality.
 
 ### Create an app
 - flutter create myapp
