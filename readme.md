@@ -1,6 +1,7 @@
 
-Flutter---Google推出的跨平台框架，Android、iOS一起搞定 系列
-https://ithelp.ithome.com.tw/users/20119550/ironman/2221
+### Content
+#### Login UI
+[Login Page UI in Flutter by Yogita Kumar, gitconnected, medium](https://levelup.gitconnected.com/login-page-ui-in-flutter-65210e7a6c90)
 
 
 ### Flutter Installation
@@ -85,3 +86,7 @@ git commit -m "xxx"
 git push
 
 git push -f origin
+
+### Further References
+Flutter---Google推出的跨平台框架，Android、iOS一起搞定 系列
+https://ithelp.ithome.com.tw/users/20119550/ironman/2221
