@@ -1,8 +1,7 @@
 
 ### Content
-#### Login UI
-[Login Page UI in Flutter by Yogita Kumar, gitconnected, medium](https://levelup.gitconnected.com/login-page-ui-in-flutter-65210e7a6c90)
-
+* ui_login [Login Page UI in Flutter, by Yogita Kumar, gitconnected, medium](https://levelup.gitconnected.com/login-page-ui-in-flutter-65210e7a6c90)
+* navigation_push_pop & navigation_routes [Flutter - Navigation using push(), pop() and routes,by Yogita Kumar, medium](https://medium.com/faun/flutter-navigation-using-push-pop-and-routes-d49988098efe)
 
 ### Flutter Installation
 1. copy stable flutter version from git
