@@ -2,6 +2,8 @@
 ### Content
 * ui_login [Login Page UI in Flutter, by Yogita Kumar, gitconnected, medium](https://levelup.gitconnected.com/login-page-ui-in-flutter-65210e7a6c90)
 * navigation_push_pop & navigation_routes [Flutter - Navigation using push(), pop() and routes,by Yogita Kumar, medium](https://medium.com/faun/flutter-navigation-using-push-pop-and-routes-d49988098efe)
+* package_sharedPreferences [SharedPreferences 設定檔資料存取](http://tw-hkt.blogspot.com/2019/08/flutter-sharedpreferences.html)
+* package_provider [Flutter Provider的使用](https://segmentfault.com/a/1190000038446714)
 
 ### Flutter Installation
 1. copy stable flutter version from git
@@ -16,6 +18,9 @@
 > ✗ Dart plugin not installed; this adds Dart specific functionality.
 - just run in the terminal this command
 `ln -s ~/Library/Application\ Support/Google/AndroidStudio4.1/plugins ~/Library/Application\ Support/AndroidStudio4.1` ([StackOverflow](https://stackoverflow.com/questions/51860845/flutter-plugin-not-installed-error-when-running-flutter-doctor))
+
+> [!] Connected device: is not available.
+* Android Studio > AVD Manager > Run
 
 ### Create an app
 - flutter create myapp
