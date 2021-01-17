@@ -39,5 +39,5 @@ prefs.getInt(key);
 //字串列表資料
 prefs.getStringList(key);
 ```
-* delete specified key value `prefs.remove(key);`
+* delete specified key and value `prefs.remove(key);`
 * delete all key values `prefs.clear();`

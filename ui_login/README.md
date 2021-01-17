@@ -23,3 +23,6 @@
 * FlatButton widget
   * onPressed (-> navigator.push)
   * child
+* AppBar widget
+  * title
+  * action
