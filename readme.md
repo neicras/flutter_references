@@ -5,7 +5,7 @@
 * package_sharedPreferences [SharedPreferences 設定檔資料存取](http://tw-hkt.blogspot.com/2019/08/flutter-sharedpreferences.html)
 * package_provider [Flutter Provider的使用](https://segmentfault.com/a/1190000038446714)
 * authtication_shuaib [Flutter Thursday 13: Building a User Registration and Login Process with provider and external API](https://medium.com/@afegbua/flutter-thursday-13-building-a-user-registration-and-login-process-with-provider-and-external-api-1bb87811fd1d)
-
+* ui_basicWidgets [Flutter Layout Basics (4:01)](https://www.youtube.com/watch?v=uisLoOmtISk) [Flutter Layout Design Tutorial || Top 5 Widgets (21:04)](https://www.youtube.com/watch?v=-z26yE9g0Hg)
 
 ### Flutter Installation
 1. copy stable flutter version from git
