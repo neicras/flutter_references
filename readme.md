@@ -6,6 +6,7 @@
 * package_provider [Flutter Provider的使用](https://segmentfault.com/a/1190000038446714)
 * authtication_shuaib [Flutter Thursday 13: Building a User Registration and Login Process with provider and external API](https://medium.com/@afegbua/flutter-thursday-13-building-a-user-registration-and-login-process-with-provider-and-external-api-1bb87811fd1d)
 * ui_basicWidgets [Flutter Layout Basics (4:01)](https://www.youtube.com/watch?v=uisLoOmtISk) [Flutter Layout Design Tutorial || Top 5 Widgets (21:04)](https://www.youtube.com/watch?v=-z26yE9g0Hg)
+* package_imagePicker [Official Docs - Image Picker plugin for Flutter](https://pub.dev/packages/image_picker)
 
 ### Flutter Installation
 1. copy stable flutter version from git
