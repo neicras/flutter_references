@@ -7,7 +7,8 @@
 * `import 'package:provider/provider.dart';`
 * concepts of provider
   * `ChangeNotifier` (as a [maxin](https://stackoverflow.com/questions/21682714/with-keyword-in-dart), used to notify listeners by `notifyListeners()`)
-  * `ChangeNotifierProvider` or `MultiProvider` 
+  * `ChangeNotifierProvider` (See tutorial_theme_switcher)
+  * or `MultiProvider` 
   * `Consumer`
   * `Provider.of` (optional)
 

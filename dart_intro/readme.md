@@ -117,3 +117,56 @@ class Car {
   * allow us to have an appearance of a class property, which indeed is from calculation of other properties, particularly with private variables (_variables)
   * getters and setters allow executing arbitary codes
   * ommiting a setter makes a property immutable
+
+## constructor methods/ named constructor methods in dart
+* source [Consturctors in Dart, Medium](https://medium.com/jay-tillu/constructors-in-dart-4f972186c372)
+* 4 distinction of constructor methods vs normal methods
+  * same name as the class
+  * does not have a return type (or a return statement)
+  * automatically called when the object is created
+  * a default no-argumnet constructor will be called if we do not specify a constructor
+```
+class Student{
+  Student(int enNum){
+    print(enNum);
+  }
+}
+
+main(){
+  var myStudent = new Student(15);
+}
+
+Output
+15
+```
+* named consturctors
+  * named constructors are used when you want to have multiple constructors in a dart class, thus you can call `class_name()`, `class_name().constructor_A`, `class_name().constructor_B`
+  * sometimes used to have different constructor for instance having different init data
+```
+class Employee {
+  int empID;
+  String empName;
+  String empDept;
+
+  Employee.ID(this.empID); // Named Constructor Creation
+
+  Employee.name(this.empName);
+
+  Employee.department(this.empDept);
+}
+
+main() {
+  var myEmployee01 = new Employee.ID(15);
+  var myEmployee02 = new Employee.department("Testing");
+  var myEmployee03 = new Employee.name("Ashu");
+
+  print(myEmployee01.empID);
+  print(myEmployee02.empDept);
+  print(myEmployee03.empName);
+}
+
+Output
+15
+Testing
+Ashu
+```
