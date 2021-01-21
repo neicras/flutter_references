@@ -7,6 +7,7 @@
 * authtication_shuaib [Flutter Thursday 13: Building a User Registration and Login Process with provider and external API](https://medium.com/@afegbua/flutter-thursday-13-building-a-user-registration-and-login-process-with-provider-and-external-api-1bb87811fd1d)
 * ui_basicWidgets [Flutter Layout Basics (4:01)](https://www.youtube.com/watch?v=uisLoOmtISk) [Flutter Layout Design Tutorial || Top 5 Widgets (21:04)](https://www.youtube.com/watch?v=-z26yE9g0Hg)
 * package_imagePicker [Official Docs - Image Picker plugin for Flutter](https://pub.dev/packages/image_picker)
+* tutorial_theme_switcher using provider with shared preferences [Building theme switcher using Provider and Shared Preferences](https://codesource.io/building-theme-switcher-using-provider-and-shared-preferences/)
 
 ### Flutter Installation
 1. copy stable flutter version from git
