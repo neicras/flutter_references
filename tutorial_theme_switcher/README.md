@@ -29,6 +29,13 @@
 * add `_loadFromPrefs()` to class constructor method
 * add `_saveToPrefs()` to toggle method
 
+## init Provider with ChagneNotifierProvider
+* called at `main.dart` and above calling `MaterialApp()`
+* in lieu of `MultiProvider`
+
+## load Provider with Consumer
+* syntax `Consumer<Provider_Name> (builder (context, notifier, child) { return Widget()})`
+
 
 
 
