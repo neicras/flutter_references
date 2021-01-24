@@ -11,6 +11,9 @@
   * or `MultiProvider` 
   * `Consumer`
   * `Provider.of` (optional)
+* Provider.of (see [Flutter Tutorial: Provider Overview for Humans](https://blog.codemagic.io/flutter-tutorial-provider/))
+  * `final ObjectProvider = Provider.of<ChangeNotifierModel>(context);`
+  * Text(ObjectProvider.StringThatChanges)
 
 ## widgets in use
 * MultiProvider
